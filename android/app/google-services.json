@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "658573529620",
+    "project_id": "appmovilelradar",
+    "storage_bucket": "appmovilelradar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658573529620:android:78b04941fb67f1c73bcd01",
+        "android_client_info": {
+          "package_name": "com.unbosque.appmovil3_el_radar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "658573529620-simiti0ri19olgic8a3jrmiudj567t5s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzWthfT7s6fnxaSSWbS9W2izGYvo48kc4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "658573529620-simiti0ri19olgic8a3jrmiudj567t5s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
